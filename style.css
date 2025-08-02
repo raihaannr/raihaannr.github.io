@@ -40,7 +40,7 @@ h2 .fas, h2 .fab {
 /* Header & Navbar */
 .main-header {
     background: #fff;
-    padding: 1rem 0;
+    /* padding: 1rem 0; */
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
     position: sticky;
     top: 0;
@@ -103,7 +103,7 @@ h2 .fas, h2 .fab {
 .code-greeting pre {
     margin: 0;
     font-family: 'Fira Code', 'Courier New', Courier, monospace;
-    font-size: 1.1rem;
+    font-size: 1rem;
     line-height: 1.5;
     text-align: left;
     white-space: pre-wrap;
@@ -152,8 +152,8 @@ h2 .fas, h2 .fab {
 }
 
 .profile-picture {
-    width: 150px;
-    height: 150px;
+    width: 250px;
+    height: 250px;
     border-radius: 50%;
     object-fit: cover;
     margin: 20px 0 10px 0;
