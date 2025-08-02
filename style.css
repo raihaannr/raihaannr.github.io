@@ -270,6 +270,14 @@ h2 .fas, h2 .fab {
     margin-right: 10px;
 }
 
+.description {
+    display: -webkit-box; 
+    -webkit-line-clamp: 2; 
+    line-clamp: 2; 
+    -webkit-box-orient: vertical; 
+    overflow: hidden;
+}
+
 /* Footer */
 footer {
     text-align: center;
